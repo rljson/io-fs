@@ -1,6 +1,7 @@
 {
   "name": "@rljson/io-fs",
   "version": "0.0.1",
+  "packageManager": "pnpm@10.6.2",
   "description": "File system implementation of @rljson/io",
   "homepage": "https://github.com/rljson/io-fs",
   "bugs": "https://github.com/rljson/io-fs/issues",
